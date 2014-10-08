@@ -33,9 +33,7 @@ Navigation
 }
 
 /* Customize the nav-justified links to be fill the entire space of the .navbar */
-.nav-justified {
-  border-radius: 0;
-}
+
 .nav-justified > li > a {
   padding-top: 15px;
   padding-bottom: 15px;
@@ -53,9 +51,7 @@ Navigation
   border-bottom: 0;
   border-radius: 0;
 }
-.navbar-inverse .navbar-toggle {
-	border:none;
-}
+
 /* ==========================================================================
 Forside
 ========================================================================== */

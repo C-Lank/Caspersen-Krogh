@@ -55,7 +55,7 @@
       </div>
       <div class="collapse navbar-collapse" id="navbar-collapse">
         <ul class="nav nav-justified">
-          <li><a href="index.php">Hjem</a></li>
+          <li class="active"><a href="index.php">Hjem</a></li>
           <li><a href="tegnestuen.php">Tegnestuen</a></li>
           <li><a href="byggerier.php">Byggerier</a></li>
           <li><a href="kontakt.php">Kontakt</a></li>

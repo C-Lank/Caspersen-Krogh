@@ -38,7 +38,7 @@
 				<h2>Historie</h2>
 			</div>
 			<div class="col-sm-3">
-				<img src="http://lorempixel.com/200/200" class="img-circle center-block img-responsive" alt="...">
+				<img src="http://lorempixel.com/200/200/animals" class="img-circle center-block img-responsive" alt="...">
 				<p>
 					Tegnestuen er etableret i 1972 af Hans Chr. Caspersen og Ejnar Kjerri Rasmussen. 
 					Første adresse var Von Hattenstræde 22. 
@@ -47,14 +47,14 @@
 				</p>
 			</div>
 			<div class="col-sm-3">
-				<img src="http://lorempixel.com/200/200" class="img-circle center-block img-responsive" alt="...">
+				<img src="http://lorempixel.com/200/200/animals" class="img-circle center-block img-responsive" alt="...">
 				<p>
 					1986-1990 holdt tegnestuen til i et atelier i haven på adressen Odensevej 6 under navnet Caspersens Tegnestue.
 					I 1990 omdannedes tegnestuen til aktieselskab med Mikael Dueholm og Peter Krogh som medindehavere.
 				</p>
 			</div>
 			<div class="col-sm-3">
-				<img src="http://lorempixel.com/200/200" class="img-circle center-block img-responsive" alt="...">
+				<img src="http://lorempixel.com/200/200/animals" class="img-circle center-block img-responsive" alt="...">
 				<p>
 					Kort tid efter flyttede tegnestuen i nyindrettede lokaler i Mediehuset.
 					I en periode 93-94 blev tegnestuen drevet under navnet 
@@ -70,7 +70,7 @@
 				</p>
 			</div>
 			<div class="col-sm-3">
-				<img src="http://lorempixel.com/200/200" class="img-circle center-block img-responsive" alt="...">
+				<img src="http://lorempixel.com/200/200/animals" class="img-circle center-block img-responsive" alt="...">
 				<p>
 					Efter 19 år i Mediehuset indrettede vi i 2009 et "arkitekturværksted" i den gamle logesal i Rosenlund. 
 					Et sted, der emmer af historie og som har rødder tilbage i 1800-tallet som traktørsted nær den romantiske "Tøjhushaven".
